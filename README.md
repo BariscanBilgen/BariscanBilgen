@@ -52,7 +52,7 @@ style="float: left; margin: 0 10px;" alt="info box" />
 <br />
 
 <p  align="left">
-<img src="https://komarev.com/ghpvc/?username=enteresanlikk&color=yellow&style=flat-square" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=BariscanBilgen&color=yellow&style=flat-square" alt="profile views">
 </p>
 
 
