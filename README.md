@@ -45,7 +45,7 @@
 
 :bulb: Info
 
-<img src="https://github-readme-stats.vercel.app/api?username=enteresanlikk&show_icons=true&custom_title=Info&hide_border=true&hide=issues,contribs,prs&hide_rank=true&count_private=true&bg_color=0d1117&title_color=fff&text_color=ddd&icon_color=FED766"
+<img src="https://github-readme-stats.vercel.app/api?username=BariscanBilgen&show_icons=true&custom_title=Info&hide_border=true&hide=issues,contribs,prs&hide_rank=true&count_private=true&bg_color=0d1117&title_color=fff&text_color=ddd&icon_color=FED766"
 style="float: left; margin: 0 10px;" alt="info box" />
 
 <br />
