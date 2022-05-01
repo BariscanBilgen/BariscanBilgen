@@ -2,7 +2,6 @@
 
 ### Hi there, I'm BB. :metal:
 
-<br />
 
 ### Backend Developer | Business Intelligence Analyst
 
