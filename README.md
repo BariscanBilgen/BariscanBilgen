@@ -7,7 +7,7 @@
 
 <br />
 
-<font color="green">Gündüzleri yazılımcı, geceleri veri görselleştirmeci :smile:</font>
+<font color="green">Gündüzleri yazılımcı, geceleri veri bilimci :smile:</font>
 
 <br />
 
