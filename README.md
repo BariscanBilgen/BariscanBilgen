@@ -42,10 +42,8 @@
 
 <br />
 
-
-
 <p  align="left">
-<img src="https://komarev.com/ghpvc/?username=BariscanBilgen&color=yellow&style=flat-square" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=BariscanBilgen&color=green&style=flat-square" alt="profile views">
 </p>
 
 
