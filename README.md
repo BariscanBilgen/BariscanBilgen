@@ -14,7 +14,7 @@
 ### Reach out to me
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" width="70" height="70" align="left"/>][linkedin]
- [<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" width="70" height="70" align="left"/>][instagram]
+[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" width="70" height="70" align="left"/>][instagram]
 
 <br />
 <br />
