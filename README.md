@@ -51,4 +51,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/bariscanbilgen/
-[instagram]: https://www.instagram.com/bb.software/?hl=tr
+[instagram]: https://www.instagram.com/bb.software
